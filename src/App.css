@@ -1,0 +1,15 @@
+@font-face {
+font-family: 'Comic Zine OT';
+font-style: normal;
+font-weight: normal;
+src: local('Comic Zine OT'), url('comic_zine_ot.woff') format('woff');
+}
+
+h1
+{
+    font-family: 'Comic Zine OT';
+    letter-spacing: 3px;
+    width: 100%;
+    border: solid transparent;
+    padding-left: 20px;
+}
